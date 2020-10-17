@@ -1,0 +1,4 @@
+Database Configuration
+Database : genesysl_helpdesk
+Username : genesysl_lbe
+Password : 8nz5^XQJ7;qt
