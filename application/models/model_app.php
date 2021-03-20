@@ -10,8 +10,8 @@ class Model_app extends CI_Model
           'protocol'  => 'smtp',  
           'smtp_host' => 'ssl://smtp.googlemail.com',  
           'smtp_port' => 465,  
-          'smtp_user' => 'ithelpdesk.lbe@gmail.com',   
-          'smtp_pass' => 'LBEhelpdesk',
+          'smtp_user' => 'yourEmail',   
+          'smtp_pass' => 'yourEmailPassword',
           'mailtype'  => 'html',
           'starttls'  => true,
           'newline'   => "\r\n" 
